@@ -1,6 +1,6 @@
-# 📝 React TODO App
+# 📝 React Todo App
 
-React로 간단한 만든 TODO 웹 애플리케이션입니다.  
+React로 간단한 만든 Todo 웹 애플리케이션입니다.  
 할 일을 **등록**, **조회**, **수정**, **삭제**할 수 있는 기본 기능을 제공합니다.
 
 ![React](https://img.shields.io/badge/React-19.1.0-blue?logo=react)
